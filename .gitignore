@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python environments and package files
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.pdb
+
+# Logs & cache
+*.log
+*.sqlite3
+*.db
+.cache/
+*.pot
+*.mo
+
+# Jupyter Notebook checkpoints (if you use them)
+.ipynb_checkpoints/
+
+# Secrets and config
+.env
+.env.*
+
+# Streamlit specific
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Dependency files (optional)
+pip-wheel-metadata/
+*.dist-info/
+
+# Replit specific
+.replit
+replit.nix
+*.replit.nix
+.config/
+.replitdb
+
+# Misc
+*.bak
